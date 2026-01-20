@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dexter</h1>
-<h3 align="center">I am a Computer Science student</h3>
+<h3 align="center">I am a Computer Science student enrolled in University of Mindanao</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterpamittan23&label=Profile%20views&color=0e75b6&style=flat" alt="dexterpamittan23" /> </p>
 
@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dexterPamittan23](https://github.com/dexterPamittan23)
 
 - 📫 How to reach me **dexterlouie022306@gmail.com**
-
-- ⚡ Fun fact **I am boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
